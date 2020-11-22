@@ -5,7 +5,7 @@
 * Node attributes: Population, Location (Latitude, Longitude)
 * Edge weight: Travelling Cost for this connection
 * Plot the graph diagram corresponding to location
-* Use Population (Node Size) and Travelling Cost (Edges) for styling
+* Use Population (Node Size) and Travelling Cost (Edges width) for styling
 * Red Edges: Travelling Cost greater than 770 $
 
 ![alt text](https://github.com/janS95/analyzing_a_distribution_network/blob/main/images/network.png "Distribution Network")
