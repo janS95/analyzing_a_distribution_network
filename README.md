@@ -5,3 +5,5 @@
 * Plot the graph diagram with the location
 * 
 *
+
+!(https://github.com/janS95/analyzing_a_distribution_network/blob/main/images/network.png)
