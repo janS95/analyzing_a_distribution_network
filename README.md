@@ -6,4 +6,4 @@
 * 
 *
 
-!(https://github.com/janS95/analyzing_a_distribution_network/blob/main/images/network.png)
+![alt text](https://github.com/janS95/analyzing_a_distribution_network/blob/main/images/network.png "LOGO")
